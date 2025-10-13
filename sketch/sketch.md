@@ -1,4 +1,4 @@
-# 🎨 Sketches – Consumo Consciente
+# 🎨 Sketches – Green Shop
 
 Este directorio contiene los **bocetos visuales (sketches)** de la aplicación **Consumo Consciente**, creados como parte del diseño de interfaz y experiencia de usuario (UI/UX).  
 Cada imagen representa una pantalla o componente clave del flujo de la app.
