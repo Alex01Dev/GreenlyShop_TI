@@ -21,13 +21,11 @@ A través de un sistema de registro detallado, dashboards interactivos y un moto
 
 ###  Descripción General del Proyecto
 
-"Greenly shop" es una plataforma digital web y móvil creada con el propósito de fomentar hábitos de consumo responsables y sostenibles. La plataforma permite a los usuarios registrar sus compras, analizarlas mediante gráficos interactivos y recibir recomendaciones personalizadas.
+Greenly Shop es una plataforma digital disponible en versión web y móvil, diseñada para promover hábitos de consumo responsables y sostenibles. Su objetivo principal es ayudar a los usuarios a comprender y mejorar la forma en que gestionan sus compras diarias mediante el uso inteligente de datos.
 
-A través de la captura de datos como fecha, monto, categoría y establecimiento, el sistema genera reportes que permiten al usuario visualizar patrones de consumo. El módulo de recomendaciones ofrece alternativas más sostenibles, metas de ahorro y sugerencias inteligentes para reducir gastos innecesarios.
+La plataforma permite registrar información clave como fecha, monto, categoría y establecimiento de cada compra. A partir de estos datos, el sistema genera reportes visuales y gráficos interactivos que facilitan la identificación de patrones de consumo y áreas de mejora. Además, incorpora un módulo de recomendaciones personalizadas que sugiere alternativas más sostenibles, metas de ahorro y acciones para reducir gastos innecesarios.
 
-La plataforma también incluye herramientas educativas y métricas estimadas de impacto ambiental, impulsando una mayor conciencia ecológica. Su diseño es responsivo, accesible y seguro, garantizando una experiencia óptima tanto en web como en dispositivos móviles.
-
-Greenly Shop busca transformar datos cotidianos en información útil que incentive un consumo más consciente y responsable.
+Greenly Shop también integra herramientas educativas y métricas estimadas de impacto ambiental, fomentando una mayor conciencia ecológica en los usuarios. Su diseño es intuitivo, responsivo, accesible y seguro, garantizando una experiencia óptima tanto en dispositivos móviles como en navegadores web. En conjunto, la plataforma transforma datos cotidianos en información útil para impulsar un consumo más consciente y responsable.
 
 <BR>
 
