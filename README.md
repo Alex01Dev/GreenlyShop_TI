@@ -1,4 +1,4 @@
-# ConsumoConsciente_TI
+# Greenly Shop
 
 <HR>
 
@@ -7,42 +7,38 @@ En la era digital actual, el consumo masivo y la accesibilidad inmediata a biene
 
  Sin embargo, existe una brecha evidente entre el creciente interés por adoptar estilos de vida más responsables y la capacidad real de las personas para materializar este cambio. La intención choca frecuentemente con la falta de herramientas prácticas que permitan visualizar de manera clara, personalizada y accionable el impacto real de las decisiones diarias. Los usuarios carecen de un espejo digital que les refleje no solo cuánto gastan, sino también cómo sus elecciones afectan su entorno.
 
-Es en este contexto donde surge "Consumo Consciente", un proyecto de Tecnologías de la Información diseñado para bridgear esta brecha. La iniciativa consiste en el desarrollo de una plataforma digital integral (compuesta por una aplicación web y móvil) que funciona como un asistente personal para la gestión inteligente del consumo. Su propósito fundamental es empoderar al usuario, transformando datos crudos de sus compras en conocimiento significativo.
+Es en este contexto donde surge "Greenly Shop", un proyecto de Tecnologías de la Información diseñado para bridgear esta brecha. La iniciativa consiste en el desarrollo de una plataforma digital integral (compuesta por una aplicación web y móvil) que funciona como un asistente personal para la gestión inteligente del consumo. Su propósito fundamental es empoderar al usuario, transformando datos crudos de sus compras en conocimiento significativo.
 
-A través de un sistema de registro detallado, dashboards interactivos y un motor de recomendaciones personalizadas, la plataforma no solo identifica patrones de gasto, sino que educa y sugiere alternativas más sostenibles y alineadas con los valores del usuario. Al priorizar la usabilidad, la seguridad de los datos y el cumplimiento normativo, "Consumo Consciente" se posiciona no como una simple aplicación de presupuesto, sino como una solución tecnológica holística que busca fomentar un cambio de comportamiento tangible, promoviendo la transición desde un consumo automático hacia uno deliberado, informado y responsable.
+A través de un sistema de registro detallado, dashboards interactivos y un motor de recomendaciones personalizadas, la plataforma no solo identifica patrones de gasto, sino que educa y sugiere alternativas más sostenibles y alineadas con los valores del usuario. Al priorizar la usabilidad, la seguridad de los datos y el cumplimiento normativo, "Greenly Shop" se posiciona no como una simple aplicación de presupuesto, sino como una solución tecnológica holística que busca fomentar un cambio de comportamiento tangible, promoviendo la transición desde un consumo automático hacia uno deliberado, informado y responsable.
 
 ### Identidad Grafica
 
 | Logo del Producto | Logo de la Marca |
 | --- | --- |
-| <img src="imagenes/Logo_ConsumoConsciente.png" alt="Gráfico de resultados" width="300"> | <img src="imagenes/logo_equipo.jpg" alt="Gráfico de resultados" width="300"> |
+| <img src="https://i.postimg.cc/P55pnnf7/Greenly.jpg" alt="Gráfico de resultados" width="300"> | <img src="imagenes/logo_equipo.jpg" alt="Gráfico de resultados" width="300"> |
 
 <BR>
 
-### Descripcion
+###  Descripción General del Proyecto
 
-El proyecto "Consumo Consciente" consiste en el diseño, desarrollo e implementación de una plataforma digital integral (compuesta por un sitio web y una aplicación móvil) cuyo propósito fundamental es fomentar el consumo responsable y sostenible entre los usuarios. La plataforma actúa como un asistente personalizado que permite a los individuos registrar y analizar meticulosamente sus hábitos de compra. A través de la captura manual o automática de cada transacción (fecha, categoría, monto), el sistema construye un historial detallado del consumo.
+Greenly Shop es una plataforma digital disponible en versión web y móvil, diseñada para promover hábitos de consumo responsables y sostenibles. Su objetivo principal es ayudar a los usuarios a comprender y mejorar la forma en que gestionan sus compras diarias mediante el uso inteligente de datos.
 
-Utilizando herramientas modernas de análisis de datos y visualización, la plataforma transforma esta información cruda en conocimiento accionable. Presenta a los usuarios dashboards interactivos e intuitivos con gráficos y reportes que ilustran sus patrones de gasto a lo largo del tiempo, highlighting áreas de potencial sobreconsumo o impacto negativo. El núcleo inteligente del sistema reside en su módulo de recomendaciones personalizadas, el cual, basado en los patrones identificados y utilizando criterios ecológicos y éticos predefinidos, sugiere alternativas de productos, servicios o hábitos más sostenibles y alineados con los valores del usuario.
+La plataforma permite registrar información clave como fecha, monto, categoría y establecimiento de cada compra. A partir de estos datos, el sistema genera reportes visuales y gráficos interactivos que facilitan la identificación de patrones de consumo y áreas de mejora. Además, incorpora un módulo de recomendaciones personalizadas que sugiere alternativas más sostenibles, metas de ahorro y acciones para reducir gastos innecesarios.
 
-Más allá de ser un mero rastreador de gastos, "Consumo Consciente" se erige como una herramienta educativa y de concienciación. Su interfaz inclusiva y responsiva, accesible desde cualquier navegador o dispositivo móvil, está diseñada para empoderar a las personas, facilitándoles la toma de decisiones informadas que benefician no solo su economía personal, sino también el bienestar social y ambiental, promoviendo así un cambio positivo en los comportamientos de consumo.
+Greenly Shop también integra herramientas educativas y métricas estimadas de impacto ambiental, fomentando una mayor conciencia ecológica en los usuarios. Su diseño es intuitivo, responsivo, accesible y seguro, garantizando una experiencia óptima tanto en dispositivos móviles como en navegadores web. En conjunto, la plataforma transforma datos cotidianos en información útil para impulsar un consumo más consciente y responsable.
 
 <BR>
 
 ### Planteamiento del problema
 
-En la era del consumo masivo, los individuos se enfrentan a un flujo constante de información publicitaria y opciones de compra, lo que frecuentemente deriva en hábitos de consumo impulsivos y poco reflexivos. Este comportamiento no solo impacta la economía personal, generando gastos superfluos y endeudamiento, sino que tiene profundas repercusiones a nivel global. El consumo desmedido es un motor principal de problemas ambientales críticos, como la explotación desproporcionada de recursos naturales, la generación excesiva de residuos (especialmente plásticos de un solo uso) y el aumento de la huella de carbono asociada a la producción y logística de bienes. Socialmente, perpetúa cadenas de producción que, en ocasiones, priorizan la reducción de costos sobre el cumplimiento de derechos laborales y condiciones éticas.
-
-A pesar de una creciente conciencia sobre estos issues, existe una brecha significativa entre la intención de consumir responsablemente y la acción concreta. Los usuarios carecen de herramientas accesibles y tangibles que les permitan visualizar de manera clara y personalizada el impacto real de sus decisiones diarias. Llevar un registro manual es tedioso y propenso al olvido, mientras que los presupuestos tradicionales se centran únicamente en el aspecto financiero, ignorando por completo la dimensión ecológica y social de las compras.
-
-Este proyecto identifica que la falta de retroalimentación inmediata y visual sobre los patrones de consumo es una barrera clave. Sin datos consolidados y analizados, es virtualmente imposible para una persona identificar tendencias, establecer metas realistas de reducción o tomar decisiones alternativas informadas. Por ello, "Consumo Consciente" surge como una solución tecnológica diseñada para abordar esta problemática directamente, bridgeando la brecha entre la conciencia y la acción al proporcionar insights accionables y personalizados que empoderen al usuario para transformar sus hábitos en beneficio propio y del planeta.
+En la región todavía existen varias barreras que dificultan la relación entre consumidores responsables y productores ecológicos. No hay una plataforma digital que concentre los productos locales sustentables y ecológicos, lo que provoca que la información esté dispersa y sea difícil de encontrar. Para los consumidores, esto significa no tener acceso claro a datos confiables sobre sostenibilidad o materiales ecológicos, limitando su capacidad para elegir de manera informada. Al mismo tiempo, los pequeños productores enfrentan poca visibilidad en medios digitales y deben competir con grandes comercios electrónicos que acaparan la atención del mercado. A esto se suma la falta de herramientas que analicen patrones de Greenly Shop o que faciliten la consulta, compra y la recomendación de productos responsables. En conjunto, todos estos factores dan lugar a un problema central: la ausencia de una plataforma especializada que digitalice, organice y promueva los productos ecológicos locales, lo que dificulta el acceso a alternativas sostenibles y reduce la visibilidad de quienes los producen.
 
 <BR>
 
 
 ### Propuesta de solucion
 
-“Consumo Consciente” se propone como una plataforma digital integral (web y móvil) diseñada para actuar como un puente entre la intención del usuario de consumir de forma responsable y la acción concreta. La solución no es solo un rastreador de gastos, sino un ecosistema educativo y de apoyo que, mediante el análisis de datos y la inteligencia de negocio, empodera al individuo para transformar sus hábitos.
+“Greenly Shop” se propone como una plataforma digital integral (web y móvil) diseñada para actuar como un puente entre la intención del usuario de consumir de forma responsable y la acción concreta. La solución no es solo un rastreador de gastos, sino un ecosistema educativo y de apoyo que, mediante el análisis de datos y la inteligencia de negocio, empodera al individuo para transformar sus hábitos.
 
 1. Funcionalidad Central y Módulos de Información
 La plataforma se estructurará en módulos interconectados que guían al usuario en un ciclo continuo de registro, análisis, aprendizaje y acción:
@@ -125,32 +121,31 @@ Esta propuesta técnica y funcional describe un sistema robusto, seguro y centra
 
 ### Objetivo General
 
-Desarrollar e implementar una plataforma digital integral (web y móvil) denominada "Consumo Consciente", cuyo propósito central es fomentar y facilitar el consumo responsable y sostenible entre los usuarios. Esto se logrará mediante un sistema que permita registrar, analizar y visualizar de manera clara y personalizada los hábitos de compra. La plataforma procesará estos datos para generar recomendaciones inteligentes y accionables que ayuden a los usuarios a identificar oportunidades de ahorro, reducir su impacto ambiental y tomar decisiones de consumo más alineadas con sus valores. El objetivo final es empoderar al individuo con información concreta y herramientas educativas, bridgeando la brecha entre la intención de consumir de forma responsable y la acción efectiva, promoviendo así un cambio positivo en sus patrones de consumo.
-
+Desarrollar una plataforma web de comercio electrónico enfocada en la digitalización y promoción de productos ecológicos locales, que impulse el consumo responsable mediante recomendaciones personalizadas y herramientas para fortalecer el comercio sostenible.
 <BR>
 
 ### Objetivos Especificos
 
-- Implementar un módulo de registro de compras que permita a los usuarios capturar de manera manual y organizada cada transacción, almacenando datos clave como monto, categoría, fecha y establecimiento, para construir un historial completo de su consumo.
+- Implementar registro de compras.
+- Desarrollar dashboards interactivos.
+- Generar recomendaciones personalizadas.
+- Asegurar seguridad de datos.
+- Diseñar experiencia responsiva.
+- Permitir exportación de reportes.
+- Integrar métricas ecológicas.
+- Aplicar autenticación segura.
+- Fomentar metas de ahorro.
+- Incluir sistema de alertas.
 
-- Diseñar y desarrollar un dashboard interactivo con visualizaciones gráficas (como tendencias, comparativas y distribución de gastos) que transforme los datos registrados en información clara y comprensible sobre los patrones de consumo del usuario.
 
-- Integrar un sistema de recomendaciones inteligentes basado en el análisis de los hábitos del usuario, que genere sugerencias personalizadas para reducir gastos innecesarios y optar por alternativas más sostenibles y éticas.
-
-- Garantizar la accesibilidad y usabilidad de la plataforma mediante un diseño responsivo que funcione de manera óptima y consistente en navegadores web y dispositivos móviles, priorizando una experiencia de usuario intuitiva.
-
-- Asegurar la privacidad y seguridad de los datos del usuario mediante mecanismos robustos de autenticación, cifrado de información sensible y estricto cumplimiento de la normativa de protección de datos personales.
 
 <BR>
 
 ### Organigrama de Trabajo
 
-| Fotografía | Nombre Completo                     | Rol Principal en el Equipo                  |
-|------------|------------------------------------|--------------------------------------------|
-| <img src="imagenes/borrego.jpeg" width="300"/> | Alex Amauri Márquez Canales           | Líder de Proyecto / Desarrollador Backend |
-| <img src="imagenes/bede.jpg" width="300"/> | Berenice Avila Reyes                  | Desarrolladora Frontend                    |
-| <img src="imagenes/arroyo.jpg" width="300"/> | Jesús Emmanuel Arroyo Rangel          | Analista de Datos / Desarrollador BD       |
-| <img src="imagenes/espe.jpg" width="300"/> | Esperanza Cruz Galindo                | Desarrolladora Móvil                        |
+<img src="https://i.postimg.cc/jdXw1STk/organigrama.jpg" />
+
+
 
 <BR>
 
@@ -171,6 +166,105 @@ Desarrollar e implementar una plataforma digital integral (web y móvil) denomin
 <img src="imagenes/consumo_conciente_2025-08-12_11.54am.png" alt="Gráfico de resultados" width="600">
 
 <BR>
+
+
+
+## ⚙️ Requerimientos Funcionales
+
+1. Registro de compras
+2. Clasificación por categorías
+3. Dashboard gráfico
+4. Sistema de recomendaciones
+5. Autenticación de usuarios
+6. Exportar reportes
+7. Notificaciones automáticas
+8. Metas de consumo
+9. Historial de gastos
+10. Gestión de perfil
+11. Cálculo ecológico
+
+---
+
+## 🛡️ Requerimientos No Funcionales
+
+- Seguridad de datos
+- Alto rendimiento
+- Usabilidad
+- Disponibilidad 24/7
+- Compatibilidad
+
+---
+
+## 📘 Historias de Usuario
+
+1. Como usuario me gustaria registrar compras.
+2. Añadir productos al carrito.
+3. Recibir sugerencias.
+4. Gestionar mi perfil.
+5. Añadir comentarios a los productos.
+6. Ver centros de reciclaje cercanos.
+7. Poder visualizar la lista de productos.
+8. Recibir alertas.
+9. Poder realizar filtrado de los productos por categorias.
+10. Ver historial.
+11. Cambiar preferencias.
+
+---
+
+## 🎨 Sketches
+
+Disponibles en la carpeta `/sketches`
+
+---
+
+## 🧩 Wireframes
+
+Disponibles en la carpeta `/wireframes`
+
+---
+
+## 🎭 Mockups
+
+Disponibles en la carpeta `/mockups`
+
+---
+
+## 🔀 Prototipo Navegacional
+
+Enlace:
+https://figma.com/prototipo
+
+
+---
+
+## 🔌 API
+
+[Repositorio](https://github.com/Alex01Dev/backend-cc)
+
+---
+
+## 👨‍💻 Prototipo Programado
+
+[Front end en React Native](https://github.com/Dulce990/Greenly_Shop)
+
+---
+
+## 🎤 Presentación
+
+Disponibles en la carpeta `/Presentation`
+
+
+## Conclusión
+Greenly Shop nace como una alternativa para modernizar y fortalecer el comercio local de productos ecológicos. La plataforma busca apoyar a pequeños productores y emprendedores ofreciéndoles un espacio digital donde puedan administrar, organizar y mostrar sus productos de manera sencilla, sin necesidad de conocimientos técnicos avanzados. Con ello, se pretende reducir las barreras tecnológicas que suelen limitar su crecimiento y visibilidad en el mercado actual.
+
+La incorporación de este sistema facilita la gestión interna de los negocios, amplía su presencia ante nuevos clientes y brinda a instituciones gubernamentales una herramienta útil para impulsar el desarrollo económico de sus comunidades. Además, promueve un consumo más consciente, pues permite que las personas identifiquen productos sostenibles y conozcan mejor su origen, materiales y características.
+
+Más allá del aspecto económico, Greenly Shop contribuye al fortalecimiento del comercio regional y a la adopción de prácticas responsables con el medio ambiente. Esto lo vincula directamente con objetivos globales relacionados con innovación, consumo responsable y acción climática. El proyecto demuestra cómo una solución tecnológica puede conectar de manera más directa a productores y consumidores, y cómo esta conexión puede motivar cambios positivos en los hábitos de compra.
+
+En conjunto, Greenly Shop se presenta como una iniciativa con potencial de crecimiento y adaptación, capaz de ajustarse a diferentes contextos y de seguir evolucionando conforme más productores y dependencias decidan digitalizar sus procesos y acercar productos responsables a su comunidad.
+
+
+
 
 ### Lista de Tecnologia
 
