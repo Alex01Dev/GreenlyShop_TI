@@ -232,8 +232,8 @@ Disponibles en la carpeta `/mockups`
 ## 🔀 Prototipo Navegacional
 
 Enlace:
-https://figma.com/prototipo
 
+https://www.figma.com/proto/uQqymLB2PtEfhS736vUq3J/Wireframes-ConsumoConciente?node-id=1-3&p=f&t=PasSDIgZnXtofoP8-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1
 
 ---
 
